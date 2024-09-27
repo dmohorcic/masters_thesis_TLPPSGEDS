@@ -3,3 +3,5 @@
 __pycache__/
 venv/
 cache/
+
+data/GEO_v2/datasets_full/*
